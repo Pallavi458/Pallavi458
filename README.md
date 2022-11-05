@@ -13,17 +13,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---><h1 align="center">Hi 🙏, I'm Hemant Dharmendra Khambait</h1>
-<h3 align="center">I am from Nashik Maharashtra</h3>
+--><h1 align="center">Hi 🙏, I'm Pallavi Vijay Sarode</h1>
+<h3 align="center">I am from Jalgaon Maharashtra</h3>
 
-- 🔭 I’m currently working on **PUCSD**
+- 🔭 I’m currently working on **DataMann**
 - 🌱 I’m currently learning **JS, python, java,**
 
 - 👨‍💻 All of my projects are available at [https://github.com/He-mant9?tab=repositories](https://github.com/He-mant9?tab=repositories)
 
 - 💬 Ask me about **PYTHON, OOPS, JAVA, DBMS, Data Structure**
 
-- 📫 How to reach me **kumarkhambait20@gmail.com**
+- 📫 How to reach me **pallavi.v.sarode@gmail.com**
 
 - 📄 My Resume [https://drive.google.com/drive/folders/12q4aJsX2fM1IHo_OrPYtZGBy3ngcO_g-?usp=sharing](https://drive.google.com/file/d/1qUgHM-Vuqoy__c1TSpnVUUPhIVSMTBjS/view?usp=sharing)
 
