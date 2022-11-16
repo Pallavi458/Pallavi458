@@ -3,7 +3,7 @@
 <!--
 **He-mant9/He-mant9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:8DET46WW
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<p align='left'><img src="https://github-readme-stats.vercel.app/api?username=He-mant9&count_private=true&title_color=0969da&icon_color=0969da&text_color=0C2233&custom_title=Hemant+Khambait's+GitHub+Stats&show_icons=true" /> <p align="center">
+<p align='left'><img src="https://github-readme-stats.vercel.app/api?username=He-mant9&count_private=true&title_color=0969da&icon_color=0969da&text_color=0C2233&custom_title=Pallavi+Sarode's+GitHub+Stats&show_icons=true" /> <p align="center">
  
   <img align="center" src="https://github.com/Pallavi458?tab=repositories">
 </p>
